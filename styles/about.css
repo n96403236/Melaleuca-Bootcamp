@@ -2,6 +2,10 @@ main {
     background-color: whitesmoke;
 }
 
+.carousel-item > img {
+  /* max-height:500px; */
+}
+
 
 @media screen and (max-width: 750px) {
     .info {
